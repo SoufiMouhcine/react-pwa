@@ -1,0 +1,28 @@
+{
+  "name": "Observatoir des coopératives",
+  "short_name": "ODCO",
+  "theme_color": "#19232a",
+  "background_color": "#122432",
+  "display": "standalone",
+  "start_url": "./",
+  "scope": ".",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon",
+      "purpose": "any maskable"
+
+    },
+    {
+      "src": "images/icons/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icons/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
